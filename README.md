@@ -18,4 +18,3 @@ Mail: [NeoMutt](https://neomutt.org/) Theme: [Gruvbox colorscheme](https://www.s
 Launcher: [Alfred](https://www.alfredapp.com/) Theme: Gruvbox 
 \
 FireFox: [Gruvbox Dark Medium](https://addons.mozilla.org/en-GB/firefox/addon/gruvbox-d-m/)
-\
