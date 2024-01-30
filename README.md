@@ -1,5 +1,6 @@
 # dotfiles
 Config files for my Mac
+\
 Terminal: [iTerm2](https://iterm2.com/) Theme: [Gruvbox Color Scheme](https://github.com/herrbischoff/iterm2-gruvbox)
 \
 Shell: [Starship](https://starship.rs/) Theme: [Gruvbox Rainbow Preset](https://starship.rs/presets/gruvbox-rainbow.html) 
@@ -17,5 +18,4 @@ Mail: [NeoMutt](https://neomutt.org/) Theme: [Gruvbox colorscheme](https://www.s
 Launcher: [Alfred](https://www.alfredapp.com/) Theme: Gruvbox 
 \
 FireFox: [Gruvbox Dark Medium](https://addons.mozilla.org/en-GB/firefox/addon/gruvbox-d-m/)
-\
 \
