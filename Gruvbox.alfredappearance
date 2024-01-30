@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 3,
+      "subtext" : {
+        "size" : 8,
+        "colorSelected" : "#ABFFAEFF",
+        "font" : "System",
+        "color" : "#ABFFAE68"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#252525FF",
+        "font" : "System",
+        "color" : "#B16186FF"
+      },
+      "backgroundSelected" : "#C9BD9BFF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#252525FF",
+        "font" : "Hack",
+        "color" : "#C9BD9BFF"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 0,
+      "paddingVertical" : 4,
+      "iconSize" : 24
+    },
+    "search" : {
+      "backgroundSelected" : "#C9BD9BFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 0,
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#D69821FF",
+        "font" : "Hack",
+        "color" : "#D69821FF"
+      },
+      "background" : "#2020201A",
+      "roundness" : 0,
+      "paddingVertical" : 11
+    },
+    "window" : {
+      "color" : "#252525FF",
+      "paddingHorizontal" : 22,
+      "width" : 413,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : -8,
+      "paddingVertical" : 12
+    },
+    "credit" : "GhostSeven",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FFC257FF",
+      "thickness" : 0
+    },
+    "name" : "Gruvbox"
+  }
+}

@@ -1,0 +1,20 @@
+set from = <EMAIL ADDRESS>"
+set realname = "<NAME>"
+set smtp_url = "smtp://<EMAIL ADDRESS>@smtp.fastmail.com:587/"
+set smtp_pass = "<PASSWORD>"
+set imap_user = "<EMAIL ADDRESS>"
+set imap_pass = "<PASSWORD>"
+set spoolfile = "imaps://imap.fastmail.com"
+set folder = "imaps://imap.fastmail.com/INBOX"
+set record="imaps://imap.fastmail.com/Sent"
+set postponed="imaps://imap.fastmail.com/Drafts"
+set read_inc=1000
+set write_inc=1000
+set mbox="+Archive"
+set mail_check = 5
+set editor="pico -t +8" 
+set smtp_authenticators = 'gssapi:login'
+
+source ~/.config/mutt/gruvbox/colors-gruvbox-shuber.muttrc
+# For neomutt uncomment this line:
+source ~/.config/mutt/gruvbox/colors-gruvbox-shuber-extended.muttrc
